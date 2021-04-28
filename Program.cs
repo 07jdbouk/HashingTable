@@ -19,21 +19,21 @@ namespace HashingTable
             yes.setAllValues("yes", "email@email.email", 5);
 
             // fancy console output
-            Console.WriteLine("\n" + "------------------------------------------------------------------" + "\n");
+            Console.WriteLine("\n" + "==================================================================" + "\n");
 
             // generate hash for all 3 users
             no.generateHash(no.getEmail());
             same.generateHash(same.getEmail());
             yes.generateHash(yes.getEmail());
 
-            Console.WriteLine("\n" + "-----------------------------------" + "\n");
+            Console.WriteLine("\n" + "------------------------------------------------------------------" + "\n");
 
             // store all 3 users into hash table
             hashTable.store(no);
             hashTable.store(same);
             hashTable.store(yes);
 
-            Console.WriteLine("\n" + "-----------------------------------" + "\n");
+            Console.WriteLine("\n" + "------------------------------------------------------------------" + "\n");
 
             // find user 'same'
             User same2 = new User();
@@ -55,7 +55,7 @@ namespace HashingTable
             no2 = hashTable.find(email, no2.generateHash(email));
 
             // fancy console output
-            Console.WriteLine("\n" + "------------------------------------------------------------------" + "\n");
+            Console.WriteLine("\n" + "==================================================================" + "\n");
         }
     }
 
