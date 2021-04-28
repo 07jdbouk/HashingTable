@@ -1,0 +1,15 @@
+/Users/yeet/_Documents/code/csharp/HashingTable/bin/Debug/net5.0/HashingTable.deps.json
+/Users/yeet/_Documents/code/csharp/HashingTable/bin/Debug/net5.0/HashingTable.runtimeconfig.json
+/Users/yeet/_Documents/code/csharp/HashingTable/bin/Debug/net5.0/HashingTable.runtimeconfig.dev.json
+/Users/yeet/_Documents/code/csharp/HashingTable/bin/Debug/net5.0/HashingTable.dll
+/Users/yeet/_Documents/code/csharp/HashingTable/bin/Debug/net5.0/ref/HashingTable.dll
+/Users/yeet/_Documents/code/csharp/HashingTable/bin/Debug/net5.0/HashingTable.pdb
+/Users/yeet/_Documents/code/csharp/HashingTable/obj/Debug/net5.0/HashingTable.csprojAssemblyReference.cache
+/Users/yeet/_Documents/code/csharp/HashingTable/obj/Debug/net5.0/HashingTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeet/_Documents/code/csharp/HashingTable/obj/Debug/net5.0/HashingTable.AssemblyInfoInputs.cache
+/Users/yeet/_Documents/code/csharp/HashingTable/obj/Debug/net5.0/HashingTable.AssemblyInfo.cs
+/Users/yeet/_Documents/code/csharp/HashingTable/obj/Debug/net5.0/HashingTable.csproj.CoreCompileInputs.cache
+/Users/yeet/_Documents/code/csharp/HashingTable/obj/Debug/net5.0/HashingTable.dll
+/Users/yeet/_Documents/code/csharp/HashingTable/obj/Debug/net5.0/ref/HashingTable.dll
+/Users/yeet/_Documents/code/csharp/HashingTable/obj/Debug/net5.0/HashingTable.pdb
+/Users/yeet/_Documents/code/csharp/HashingTable/obj/Debug/net5.0/HashingTable.genruntimeconfig.cache
